@@ -115,7 +115,7 @@
                 <version>2.6</version>
                 <configuration>
                     <finalName>
-            		${project.groupId}.${project.artifactId}.${project.version}
+                    ${project.groupId}.${project.artifactId}.${project.version}
                     </finalName>
                     <excludes>
                         <exclude>./*.*</exclude>
